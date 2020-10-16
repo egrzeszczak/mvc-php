@@ -1,4 +1,4 @@
-# mvc template
+# mvc-php
 
 |Description|
 |:-|
